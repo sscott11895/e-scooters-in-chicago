@@ -18,15 +18,14 @@ which can be found [here](https://data.cityofchicago.org/Transportation/E-Scoote
 # Contents
 
 The R Markdown is included in this repo with various plots and maps that supported 
-my analysis. During the data manipulation and processing phase, I used geolocations data 
-to review trip duration, trip distance, origin communities,
-and destination communities.  
+my analysis (see here for full report). During the data manipulation and processing phase, I used geolocation data 
+to review trip duration, trip distance, origin communities, and destination communities.  
 
 I then used a brief time-series analysis to see the number of trips taken over time. 
 From mid-August to early September, we can see that residents quickly learned 
 of the program and began utilizing the scooters. The number of rides generally 
 decreases over time which is congruent with the expected drop in temperatures as 
-the weather drops throughout the fall.
+the weather changes throughout the fall.
 
 Finally, I used maps to visualize communities where e-scooters were very popular based on 
 ridership. After looking at this data, it is clear that scooters were well utilized
@@ -36,8 +35,6 @@ could make is that people in northern Chicago might live and work within a two b
 In contrast, people in southern Chicago might travel farther to get to work and therefore 
 traveling by scooter is a less attractive option.
 
-Moving forward, Chicago should capitalize on the demand in Lake View, Lincoln Park, and 
+Moving forward, Chicago should capitalize on the demand in the neighborhoods of Lake View, Lincoln Park, and 
 West Town and put the majority of e-scooters/e-scooter charging stations there. 
 Simultaneously, they should survey neighborhoods in the Southside to determine future demand.
-
-The R Markdown file (html format) can be found here: 
