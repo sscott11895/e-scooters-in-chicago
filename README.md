@@ -35,6 +35,8 @@ could make is that people in northern Chicago might live and work within a two b
 In contrast, people in southern Chicago might travel farther to get to work and therefore 
 traveling by scooter is a less attractive option.
 
+![E-Scooter Origin Communities](https://github.com/sscott11895/e-scooters-in-chicago/blob/main/e_scooters_ride_start_loc.png)
+
 Moving forward, Chicago should capitalize on the demand in the neighborhoods of Lake View, Lincoln Park, and 
 West Town and put the majority of e-scooters/e-scooter charging stations there. 
 Simultaneously, they should survey neighborhoods in the Southside to determine future demand.
